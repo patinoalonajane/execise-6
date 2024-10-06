@@ -1,0 +1,3 @@
+Name: Sam, Address: Muntinlupa, Contact: 09952345678
+Name: Sammy, Address: San Guilermo, Contact: 09655162342
+Name: Mangkanor, Address: Purok 3, Contact: 09653661254
